@@ -1,0 +1,65 @@
+---
+title: "Ritual de cebas como señal post-emparejamiento en la abubilla (*Upupa epops*)"
+author: "Pablo Moreno López"
+date: "2023-02-21"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **Introducción**
+
+Las señales probablemente evolucionaron a partir de indicios que aportan información útil a los receptores y que delatan cual será el siguiente acto más probable del emisor. Estos indicios ancestrales pueden ser cambios en el estado fisiológico indicios de comportamiento (el lobo enseña los dientes antes de atacar, por ejemplo) etc. 
+Si el emisor se beneficia de que el receptor reciba esta información, el indicio puede evolucionar hasta convertirse en una señal. El proceso evolutivo mediante el que estructuras y movimientos se ven modificados por selección natural para mejorar su eficacia como señales se denomina ritualización. La ritualización suele ir acompañada de una modificación de la estructura morfológica de la pauta. Esta puede volverse más estereotipada y exagerada (por ejemplo, el acicalado por cortejo en patos).
+Uno de los rituales más conocidos es el que acompaña a la entrega de alimento del macho a la hembra en las aves al realizar el cortejo. Este tipo de ritual es habitual durante el emparejamiento y fortalecimiento del vínculo de pareja. Sin embargo, es más raro que suceda cuando el intento reproductor está más avanzado (fases con huevos o pollos).
+Hay varias hipótesis sobre la función de estos rituales, algunos autores defienden que (como se ha mencionado) estos rituales sirven para fortalecer los vínculos de la pareja. Otra hipótesis es que el ritual podría ser una señal para mostrar la inversión que va a realizar el emisor y así convencer al receptor de su elección, pero tendría poco sentido que tuviesen el mismo significado en el post-emparejamiento ya que en ese momento la pareja ya se ha afianzado, por lo que su significado podría cambiar. 
+
+
+En este trabajo se ha elegido como especie de estudio a la abubilla debido a que realiza rituales de ceba tanto antes como después del emparejamiento. La abubilla es un ave de tamaño medio (26-28 cm), en la que destacan su alargado pico, su cresta desplegable y su vuelo amariposado en el que muestra sus alas blanquinegras. Es un ave con una marcada asincronía de eclosión, con la peculiaridad de que la hembra durante el periodo de cría, en los primeros 7-8 días tras la eclosión de los pollos no es frecuente que salga del nido ni busquen presas, por lo que esa responsabilidad recae toda en el macho y es la encargada durante este periodo de distribuir las cebas entre los pollos. Además, sufre una elevadísima mortalidad de los pollos nacidos en último lugar.
+
+
+El ritual que tiene una duración y una aparición variable, consiste en que el macho trae una presa en el pico y la introduce en el pico de la hembra repetidas veces sin entregarla, hasta que finalmente se la da después de hasta 100 o más movimientos. Durante el cortejo sucede fuera del nido, pero en las fases con huevos y pollos tiene lugar en la entrada del nido, en las mismas circunstancias aparentes que cuando se producen entregas de cebas normales. Una de las peculiaridades que tiene el ritual es que sucede con el pico del macho dentro del de la hembra, pero no es evidente quién es el individuo que toma la decisión de que una entrega de cebas en particular no sea normal y se convierta en este ritual repetitivo. Una manera de comprobar qué causa (y quien es responsable de) la realización del ritual, sería manipular alguna circunstancia de interés que afecte principalmente al macho o a la hembra. Dependiendo de la manipulación realizada, se pueden obtener también conclusiones acerca del tipo de información que es transmitida en el ritual. 
+
+
+**Las hipótesis** que nos planteamos son las siguientes:
+
+Hipótesis de indicador de inversión: el ritual podría ser una señal para mostrar la inversión que va a realizar el emisor.
+Hipótesis del tipo de ceba: el ritual tendría la función de ser un mensaje de la hembra hacia el macho sobre los tipos de cebas que éste está aportando y las necesidades en cantidad o características de las presas que la hembra reclama. 
+
+**Las predicciones** que nos planteamos son las siguientes:
+
+Si el ritual es utilizado por el macho para mostrarle a la hembra su capacidad y disposición de aportar gran cantidad de alimento:
+
+Predicción 1.  Cuando se manipulara la calidad percibida de la hembra por el macho, éste debería cambiar las frecuencia o características de los rituales de cebas. En particular realizar más rituales o rituales más intensos indicando su mayor disposición a trabajar por hembras de mejor calidad.
+
+Si el ritual es un mensaje de la hembra hacia el macho para que traiga unas cebas más adecuadas para alimentar a los pollos:
+ 
+Predicción 2. Cuando se manipulara la disponibilidad de alimento accesible a la hembra en el nido sin intervención del macho, se debería producir una modificación en la frecuencia o características de los rituales. Si se aporta alimento extra experimentalmente, disminuirá la frecuencia del ritual.
+
+En este trabajo nos vamos a centrar en la segunda predicción para evaluarla experimentalmente
+
+## **Material y métodos**
+
+Este trabajo se va a basar en las grabaciones obtenidas para la realización de otro trabajo en el que se ha estudiado una población de abubillas en Guadix donde las abubillas crían en cajas nido hechas de corcho. En concreto en ese trabajo se ha manipulado la disponibilidad de alimento accesible a la hembra mediante la suplementación de unos 20 grillos a los nidos experimentales el resto de nidos se mantuvieron como control.
+
+Las grabaciones se realizaron entre los 8-10 dias siguientes a la eclosión del primer huevo, con una cámara integrada en la caja nido en la que se puede observar la entrada del nido (lugar donde se produce el ritual)
+
+
+Se analizarán 12 horas de video de dos días distintos por nido, teniendo en total más de 50 nidos. Se tomarán datos sobre las cebas, de si se realiza el ritual en esas 12 horas, de cuantos rituales se han hecho, del número de repeticiones del gesto y de la duración de cada ritual. 
+
+Otras variables que se analizarán son: el tipo de ceba que la distinguiremos entre tipo 1(si es menor a la tercera parte del pico), tipo 2 (si es menor a la mitad del pico, pero mayor a un tercio) y tipo 3 (si es mayor a la mitad del pico de la hembra), la calidad de la hembra que se calculará realizando una regresión lineal de su peso sobre la longitud de su tarso al cubo y quedándose con los valores residuales, quien recibe la ceba tras el ritual (ya que en ocasiones no reciben los pollos la ceba sino que se la come la hembra) y mortalidad de los pollos. Muchas de estas variables ya han sido analizadas en el anterior trabajo.
+
+
+![*Upupa epops*](https://sayrnatural.com/wp-content/uploads/2021/07/abubilla-1024x683.jpg)
+
+
+
+
+
+
+
+
+
+
