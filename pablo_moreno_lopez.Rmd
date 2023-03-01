@@ -51,6 +51,7 @@ Se analizarán 12 horas de video de dos días distintos por nido, teniendo en to
 
 Otras variables que se analizarán son: el tipo de ceba que la distinguiremos entre tipo 1(si es menor a la tercera parte del pico), tipo 2 (si es menor a la mitad del pico, pero mayor a un tercio) y tipo 3 (si es mayor a la mitad del pico de la hembra), la calidad de la hembra que se calculará realizando una regresión lineal de su peso sobre la longitud de su tarso al cubo y quedándose con los valores residuales, quien recibe la ceba tras el ritual (ya que en ocasiones no reciben los pollos la ceba sino que se la come la hembra) y mortalidad de los pollos. Muchas de estas variables ya han sido analizadas en el anterior trabajo.
 
+Tras finalizar el análisis de los videos realizaremos un análisis estadístico para ver si las predicciones propuestas se han cumplido.
 
 ![*Upupa epops*](https://sayrnatural.com/wp-content/uploads/2021/07/abubilla-1024x683.jpg)
 
